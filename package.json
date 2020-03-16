@@ -1,0 +1,33 @@
+{
+  "name": "egghead-wordpress-jamstack",
+  "private": true,
+  "description": "example site to demonstrate migrating a WordPress site to Gatsby",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "@wordpress/block-library": "^2.14.4",
+    "gatsby": "^2.19.43",
+    "gatsby-source-graphql": "^2.1.34",
+    "react": "^16.12.0",
+    "react-dom": "^16.13.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlengstorf/egghead-wordpress-jamstack"
+  },
+  "bugs": {
+    "url": "https://github.com/jlengstorf/egghead-wordpress-jamstack/issues"
+  }
+}

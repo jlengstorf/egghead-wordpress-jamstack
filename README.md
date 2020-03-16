@@ -8,9 +8,7 @@
   <a href="https://app.netlify.com/start/deploy?repository=https://github.com/jlengstorf/egghead-wordpress-jamstack&utm_source=egghead&utm_medium=gh-wp-jamstack-jl&utm_campaign=devex"><strong>deploy this project</strong></a>
 </p>
 
-&nbsp;
-
-Learn how to migrate a WordPress site to the Jamstack in a [free egghead course][course]!
+**Learn how to migrate a WordPress site to the Jamstack in a [free egghead course][course]!**
 
 Keep all the content management benefits of WordPress while gaining all the security, performance, and workflow improvements of the Jamstack by migrating your WordPress sites to use Gatsby on the frontend.
 
